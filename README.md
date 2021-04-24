@@ -7,5 +7,5 @@ Tips：Please drop down and you can see the chinese version.
 
 Hi! We are Programming-Teenager-Club.
 
-This item is made by Ella, the leader of  Programming-Teenager-Club.
+This item is made by Ella, one of the menbers of Programming-Teenager-Club.
 
