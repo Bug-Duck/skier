@@ -1,7 +1,7 @@
 # skier
-Please drop down and you can see the chinese version.
+Tips:Please drop down and you can see the chinese version.
 
-下拉页面可见中文版本。
+小贴士：下拉页面可见中文版本。
 
 ------English version-------
 
